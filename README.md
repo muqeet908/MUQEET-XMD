@@ -1,3 +1,23 @@
+> **CURRENT BOT VERSION ➜ `1.0.0 ⚡`**
+---
+
+
+
+
+
+  <p align="center">
+<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/muqeet908?color=blue&style=flat-square"></a>
+<a href="https://github.com/muqeet908/MUQEET-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/muqeet908/MUQEET-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/muqeet908/MUQEET-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/muqeet908/MUQEET-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/muqeet908/MUQEET-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/MUQEET-XMD/MUQEET-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/muqeet908/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=200&lines=MUQEET-XMD;VERSION+2025;BY+ABDUL+MUQEET" alt="Typing SVG" />
+  </a>
+</p>
 
 # MUQEET-xᴍᴅ
 
