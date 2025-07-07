@@ -9,7 +9,7 @@
 <a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/muqeet908?color=blue&style=flat-square"></a>
 <a href="https://github.com/muqeet908/MUQEET-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/muqeet908/MUQEET-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/muqeet908/MUQEET-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/muqeet908/MUQEET-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/muqeet908/MUQEET-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/MUQEET-XMD/MUQEET-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/muqeet908/MUQEET-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/muqeet908/MUQEET-XMD?style=flat-square&color=green"></a>
 <a href="https://github.com/muqeet908/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
